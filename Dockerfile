@@ -3,7 +3,7 @@ WORKDIR /src
 
 COPY . .
 
-RUN dotnet publish " BookStoreApp.csproj" -c Release -o /app/publish
+RUN dotnet publish "BookStoreApp.csproj" -c Release -o /app/publish
 
 FROM mcr.microsoft.com/dotnet/aspnet:10.0-preview
 WORKDIR /app
@@ -12,4 +12,4 @@ COPY --from=build /app/publish .
 
 EXPOSE 10000
 
-ENTRYPOINT ["dotnet", " BookStoreApp.dll"]
+ENTRYPOINT ["dotnet", "BookStoreApp.dll"]
