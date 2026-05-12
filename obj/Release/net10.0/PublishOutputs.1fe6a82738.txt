@@ -1,0 +1,7 @@
+C:\Users\itsme\OneDrive\Desktop\sem5th_projects\Bookstore\BookStoreApp\out\BookStoreApp.exe
+C:\Users\itsme\OneDrive\Desktop\sem5th_projects\Bookstore\BookStoreApp\out\appsettings.Development.json
+C:\Users\itsme\OneDrive\Desktop\sem5th_projects\Bookstore\BookStoreApp\out\appsettings.json
+C:\Users\itsme\OneDrive\Desktop\sem5th_projects\Bookstore\BookStoreApp\out\BookStoreApp.dll
+C:\Users\itsme\OneDrive\Desktop\sem5th_projects\Bookstore\BookStoreApp\out\BookStoreApp.deps.json
+C:\Users\itsme\OneDrive\Desktop\sem5th_projects\Bookstore\BookStoreApp\out\BookStoreApp.runtimeconfig.json
+C:\Users\itsme\OneDrive\Desktop\sem5th_projects\Bookstore\BookStoreApp\out\BookStoreApp.pdb
